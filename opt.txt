@@ -1,0 +1,4 @@
+mode=2;  
+time=5;  
+rebin=1;  
+
