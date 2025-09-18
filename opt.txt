@@ -1,4 +1,4 @@
 mode=2;  
-time=7;  
-rebin=1;  
-
+time=0;  
+rebin=0;  
+sdcd=1;
