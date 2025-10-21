@@ -3,4 +3,4 @@ time=0;
 rebin=0;  
 sdcd=1;
 ota=1;
-otav="ESP502a.bin";
+otav="ESP502a";
