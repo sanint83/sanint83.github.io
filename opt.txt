@@ -2,4 +2,5 @@ mode=2;
 time=0;  
 rebin=0;  
 sdcd=1;
-otav="ESP502a.bin";
+ota=1;
+otav="SSP502a.bin";
