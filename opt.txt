@@ -3,4 +3,4 @@ time=0;
 rebin=0;  
 sdcd=1;
 ota=0;
-otav="ESP502";
+otav="ESP502a";
