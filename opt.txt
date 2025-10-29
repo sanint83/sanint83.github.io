@@ -1,6 +1,6 @@
 mode=2;  
 time=0;  
-rebin=1;  
+rebin=0;  
 sdcd=1;
 ota=0;
 otav="E251029";
