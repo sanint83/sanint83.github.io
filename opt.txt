@@ -1,6 +1,7 @@
 mode=2;  
 time=0;  
+playnum=10;  
 rebin=1;  
 sdcd=1;
 ota=1;
-otav="E251030c";
+otav="E251031";
