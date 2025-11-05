@@ -1,8 +1,8 @@
 mode=2;  
-time=136;  
-playnum=253;  
+time=0;  
+playnum=5;  
 rebin=1;  
-binv=A1FGHJKRLF;
+binv=A0004;
 sdcd=1;
 ota=1;
 otav=E251103e;
