@@ -1,6 +1,6 @@
 mode=2;  
-time=0;  
-playnum=10;  
+time=136;  
+playnum=253;  
 rebin=1;  
 binv=A1FGHJKRLF;
 sdcd=1;
