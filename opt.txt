@@ -2,6 +2,6 @@ mode=2;
 time=0;  
 playnum=5;
 rebin=1;  
-binv=A00082
+binv=A00082;
 ota=1;
 otav=E251105;
