@@ -4,6 +4,6 @@ playnum=5;
 mode=2;  
 sdcd=1;
 rebin=1;  
-ota=1;
+ota=0;
 binv=A10003;
 otav=E251103e;
