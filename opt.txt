@@ -5,6 +5,6 @@ mode=2;
 sdcd=1;
 rebin=1;  
 ota=0;
-binv=A10001;
+binv=A1008C;
 otav=E251103e;
 gid=AKfycbxGwwROGM88M1JFg0TUF32E6tbTtnLHVDwKqbLKL6yKteUxmag4XOyv_Uyput8GF42K;
