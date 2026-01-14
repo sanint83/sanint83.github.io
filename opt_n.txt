@@ -1,0 +1,10 @@
+time=0; 
+time2=0; 
+playnum=5;
+mode=2;  
+sdcd=1;
+rebin=1;  
+ota=1;
+binv=A10001;
+otav=E260114na1;
+gid=AKfycbyZfCf6ENs7j2Q_YrA1Za4dwMTFO_2DDOB3HarckBP6iHs_qbF7VVxOIEdadxiMzaVA;
