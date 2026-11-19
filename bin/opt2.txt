@@ -1,14 +1,10 @@
 time=3; 
 playnum=3;
 handrun=1;
-admWork=0;
+admWork=1;
 sdplay=0;
 mode=2;  
 dst=1;
-rebin=1;  
-ota=1;
-binv=A10003;
-otav=E261119aE1;
-gid=AKfycbwJ_iBI-XK2ed1eRs-HvwvYwikDY1zwn-zWOhxeTdskvNYNo3pX6uSbRCIJACF8-G1TXw;
-gid2=AKfycbwpGRIoMXh-hLSpFAL7unWc1tSg2ko9UNVZIAZdQeauKGNotEt1942o57fgwZOgbdz3;
+gid=AKfycbzM_CFlDDAIHn0sRxYDMOvDYW9rAcMjWuzOQl2qKDEj3g1zY58rDiv1oIYe0ogZe2Jj;
+gid2=AKfycbxGq-1wdF_e6F44hFnCNZSoDp6YOKBfVWDuAQ5e_Mmw_KeHCEloUlrFpAFwsAbUqi6atw;
 urladm=https://sanint83.github.io/;
