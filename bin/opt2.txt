@@ -1,7 +1,7 @@
 time=3; 
 playnum=3;
 handrun=1;
-admWork=0;
+admWork=1;
 sdplay=0;
 mode=2;  
 dst=1;
