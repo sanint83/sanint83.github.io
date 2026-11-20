@@ -1,10 +1,10 @@
 time=3; 
 playnum=3;
 handrun=1;
-admWork=0;
+admWork=1;
 sdplay=0;
-mode=2;  
-dst=1;
+mode=1;  
+dst=0;
 gid=AKfycbzM_CFlDDAIHn0sRxYDMOvDYW9rAcMjWuzOQl2qKDEj3g1zY58rDiv1oIYe0ogZe2Jj;
 gid2=AKfycbxGq-1wdF_e6F44hFnCNZSoDp6YOKBfVWDuAQ5e_Mmw_KeHCEloUlrFpAFwsAbUqi6atw;
 urladm=https://sanint83.github.io/;
